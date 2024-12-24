@@ -1,0 +1,1 @@
+/usr/bin/c++ ;-g;-O1;-Wall;-lwfrest;-lpthread;-llog4cpp CMakeFiles/Botzone.dir/src/Botzone.cc.o -o ../bin/Botzone 
